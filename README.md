@@ -14,3 +14,15 @@ Also, this article is interesting.
 
 And this flask article is also quite useful.
 - [Flask Web Programming from Scratch](https://medium.com/hackernoon/flask-web-programming-from-scratch-9ada8088fde1)
+
+This link may demonstrate how Socket-io is used in react.
+- [Socket.IO, React and Node.js: Going Real-Time](https://www.valentinog.com/blog/socket-react/)
+
+### How to run it
+
+```
+pip install flask
+pip instal flask-socketio
+cd back_end
+python app.py
+```
