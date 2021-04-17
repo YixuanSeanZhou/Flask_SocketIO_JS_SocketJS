@@ -12,3 +12,5 @@ The main references that is used are the following two Medium articles:
 Also, this article is interesting.
 - [Http vs WebSocket Protocols With Nodejs Clients and Python Servers](https://medium.com/swlh/http-vs-websocket-protocols-with-nodejs-clients-and-python-servers-3c830d703cbd)
 
+And this flask article is also quite useful.
+- [Flask Web Programming from Scratch](https://medium.com/hackernoon/flask-web-programming-from-scratch-9ada8088fde1)
